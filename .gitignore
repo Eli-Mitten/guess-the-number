@@ -3,3 +3,6 @@ venv
 __pycache__
 .replit
 replit.nix
+.upm
+poetry.lock
+pyproject.toml
